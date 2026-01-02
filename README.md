@@ -1,5 +1,7 @@
 # Flutter Login UI – Material 3
 
+## Free preview – full UI kit on Gumroad
+
 A clean and modern **Flutter login UI template** built with **Material 3**.  
 Designed for developers who want a solid starting point for authentication flows without wasting time on UI basics.
 
