@@ -5,6 +5,9 @@
 A clean and modern **Flutter login UI template** built with **Material 3**.  
 Designed for developers who want a solid starting point for authentication flows without wasting time on UI basics.
 
+Full template available on Gumroad:  
+👉 https://griseo.gumroad.com/l/dev-flutter-onboarding-template
+
 ---
 
 ## ✨ Features
